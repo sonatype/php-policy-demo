@@ -6,6 +6,6 @@ class PolicyDemo
 {
     public function printHello()
     {
-        echo "Hello world from v1.0.0\n";
+        echo "Hello world from v1.1.0\n";
     }
 }
